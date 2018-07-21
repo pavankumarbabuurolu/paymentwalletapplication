@@ -1,0 +1,18 @@
+tree 47a84143f30b6da822f7a193d0bfe92442896859
+parent 11c1370f9668dd0c4b6654ed1b9cc4ab7f4e4cc5
+parent f631d449d3247b2aa5357ac5c68653b4efa25d89
+author learning <learning@DIN66007599.corp.capgemini.com> 1532002086 +0530
+committer learning <learning@DIN66007599.corp.capgemini.com> 1532002086 +0530
+
+Merge branch 'master' of
+https://github.com/pavankumarbabuurolu/paymentwalletapplication
+
+Conflicts:
+	src/main/java/com/capgemini/util/Util.java
+	src/main/java/com/capgemini/walletapplication/bean/Details.java
+	src/main/java/com/capgemini/walletapplication/bean/WalletApplication.java
+	src/main/java/com/capgemini/walletapplication/ui/Customer.java
+	target/classes/META-INF/maven/com.capgemini/walletapplication/pom.properties
+	target/classes/com/capgemini/walletapplication/bean/Details.class
+	target/classes/com/capgemini/walletapplication/bean/WalletApplication.class
+	target/classes/com/capgemini/walletapplication/ui/Customer.class
